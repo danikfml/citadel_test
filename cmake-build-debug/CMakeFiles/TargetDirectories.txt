@@ -1,0 +1,3 @@
+D:/Programming/C++/citadel_test/cmake-build-debug/CMakeFiles/citadel_test.dir
+D:/Programming/C++/citadel_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/C++/citadel_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
